@@ -1,0 +1,4 @@
+SetEnv DB pm1739
+SetEnv DB_SERVER localhost
+SetEnv DB_PASSWORD triesheavy
+SetEnv DB_USER pm1739
